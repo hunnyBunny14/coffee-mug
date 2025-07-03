@@ -22,7 +22,7 @@ This version is **not responsive** — optimized for desktop view only.
 
 ### 📸 Preview
 
-![Preview Screenshot](mug.jpg)
+![Preview Screenshot](preview.png)
 
 ---
 
